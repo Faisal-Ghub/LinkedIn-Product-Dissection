@@ -50,6 +50,8 @@ The following ER diagram represents the relationship between LinkedIn’s entiti
 ## 👨‍💻 Author
 **Faisal Khan**  
 Data Science & AI Learner | AlmaBetter  
-[LinkedIn Profile](www.linkedin.com/in/faisalkhan123)
+[LinkedIn Profile](https://www.linkedin.com/in/faisalkhan123)
+
+
 
 
