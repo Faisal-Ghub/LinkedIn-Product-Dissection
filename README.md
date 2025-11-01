@@ -42,7 +42,7 @@ The project also includes an **ER diagram** to represent LinkedIn’s database s
 
 The following ER diagram represents the relationship between LinkedIn’s entities such as Users, Posts, Comments, Likes, Connections, and Job Applications.
 
-![LinkedIn ER Diagram](ERD_LinkedIn.png)
+![LinkedIn ER Diagram](ERD_LinkedIn.png.png)
 
 
 ---
@@ -51,6 +51,7 @@ The following ER diagram represents the relationship between LinkedIn’s entiti
 **Faisal Khan**  
 Data Science & AI Learner | AlmaBetter  
 [LinkedIn Profile](https://www.linkedin.com/in/faisalkhan123)
+
 
 
 
