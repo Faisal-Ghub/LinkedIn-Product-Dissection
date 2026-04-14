@@ -6,6 +6,7 @@ This project is a part of my AlmaBetter curriculum and focuses on dissecting **L
 ## 🏢 Company Background
 **LinkedIn** was founded in 2002 by Reid Hoffman and launched in 2003. Acquired by Microsoft in 2016, it connects professionals globally to share knowledge, find opportunities, and build careers.
 
+
 ## 🚀 Project Objectives
 - Understand LinkedIn’s key features and ecosystem.  
 - Identify user pain points and how LinkedIn solves them.  
