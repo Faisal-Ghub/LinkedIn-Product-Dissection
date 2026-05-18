@@ -1,4 +1,4 @@
-# Product Dissection: LinkedInd
+# Product Dissection: LinkedIn
 
 ## 📘 Overview
 This project is a part of my AlmaBetter curriculum and focuses on dissecting **LinkedIn**, the world’s largest professional networking platform. The aim is to understand its features, user challenges, and how its product design and data model solve real-world problems.
